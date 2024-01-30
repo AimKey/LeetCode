@@ -10,7 +10,7 @@ public class App {
  */
 class Main {
     public void run() {
-        String[] strings = new String[] { "ab", "a" };
+        String[] strings = new String[] { "flow", "flforreal", "fly" };
         String s = longestCommonPrefix(strings);
         System.out.println("Prefix: " + s);
     }
@@ -27,13 +27,13 @@ class Main {
      * 
      */
     public String longestCommonPrefix(String[] strs) {
-        // Loop through the first element
         StringBuilder result = new StringBuilder("");
         StringBuilder firstElement = new StringBuilder(strs[0]);
         for (int i = 0; i < firstElement.length(); i++) {
             if (isOtherCharactersTheSame(strs, firstElement.charAt(i), i)) {
-                System.out.println(firstElement.charAt(i) + " is a prefix");
                 result.append(firstElement.charAt(i));
+            } else {
+                break;
             }
         }
         return result.toString();
@@ -43,22 +43,12 @@ class Main {
         boolean r = true;
         for (int i = 1; i < strings.length; i++) {
             String s = strings[i];
-            // If it has only one char
-            if (s.length() == 1) {
-                if (s.toCharArray()[0] != character)
-                    return false;
-            } else if (startPos < s.length()) {
-                // Still contain characters to compare (Ex: "ab" -> s.length = 2, startPost
-                // should be 0 and 1)
-                // Funny thing here is that the end index in the substring already - 1 for us,
-                // so we don't
-                // have to worry about it
-                System.out.printf("Comparing %s and character %s, position: %d\n", s, character, startPos);
-                System.out.println(s.substring(startPos, startPos + 1));
+            if (startPos < s.length()) {
                 if (s.substring(startPos, startPos + 1).toCharArray()[0] != character)
                     return false;
-            } else
+            } else {
                 return false;
+            }
         }
         return r;
     }

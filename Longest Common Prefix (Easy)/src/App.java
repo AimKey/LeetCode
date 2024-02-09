@@ -12,6 +12,7 @@ class Main {
     public void run() {
         String[] strings = new String[] { "flow", "flforreal", "fly" };
         String s = longestCommonPrefix(strings);
+        int n = 10;
         System.out.println("Prefix: " + s);
     }
 

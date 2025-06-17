@@ -1,0 +1,15 @@
+E:\source\LeetCode\CSharpLeetcode\ProblemsAndSolutions\bin\Debug\net8.0\ProblemsAndSolutions.exe
+E:\source\LeetCode\CSharpLeetcode\ProblemsAndSolutions\bin\Debug\net8.0\ProblemsAndSolutions.deps.json
+E:\source\LeetCode\CSharpLeetcode\ProblemsAndSolutions\bin\Debug\net8.0\ProblemsAndSolutions.runtimeconfig.json
+E:\source\LeetCode\CSharpLeetcode\ProblemsAndSolutions\bin\Debug\net8.0\ProblemsAndSolutions.dll
+E:\source\LeetCode\CSharpLeetcode\ProblemsAndSolutions\bin\Debug\net8.0\ProblemsAndSolutions.pdb
+E:\source\LeetCode\CSharpLeetcode\ProblemsAndSolutions\obj\Debug\net8.0\ProblemsAndSolutions.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\LeetCode\CSharpLeetcode\ProblemsAndSolutions\obj\Debug\net8.0\ProblemsAndSolutions.AssemblyInfoInputs.cache
+E:\source\LeetCode\CSharpLeetcode\ProblemsAndSolutions\obj\Debug\net8.0\ProblemsAndSolutions.AssemblyInfo.cs
+E:\source\LeetCode\CSharpLeetcode\ProblemsAndSolutions\obj\Debug\net8.0\ProblemsAndSolutions.csproj.CoreCompileInputs.cache
+E:\source\LeetCode\CSharpLeetcode\ProblemsAndSolutions\obj\Debug\net8.0\ProblemsAndSolutions.sourcelink.json
+E:\source\LeetCode\CSharpLeetcode\ProblemsAndSolutions\obj\Debug\net8.0\ProblemsAndSolutions.dll
+E:\source\LeetCode\CSharpLeetcode\ProblemsAndSolutions\obj\Debug\net8.0\refint\ProblemsAndSolutions.dll
+E:\source\LeetCode\CSharpLeetcode\ProblemsAndSolutions\obj\Debug\net8.0\ProblemsAndSolutions.pdb
+E:\source\LeetCode\CSharpLeetcode\ProblemsAndSolutions\obj\Debug\net8.0\ProblemsAndSolutions.genruntimeconfig.cache
+E:\source\LeetCode\CSharpLeetcode\ProblemsAndSolutions\obj\Debug\net8.0\ref\ProblemsAndSolutions.dll
